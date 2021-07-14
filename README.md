@@ -1,6 +1,6 @@
 # react-starter-projects
-have started to learn react and i felt the best way to learn is to implement it.
-just a static site to store the birthdays of your friends and a abutton to clear them.
+Have started to learn react and i felt the best way to learn is to implement it.
+just a static site to store the birthdays of your friends and a a button to clear them.
 
 LIVE LINK: https://birthday-store.netlify.app/
 
